@@ -1,0 +1,2 @@
+In Git, branches are typically categorized based on their purpose and how they fit into the overall development workflow. 
+The two most commonly used types of branches are main (or master) and feature branches, but depending on the branching strategy you're using, there are a few other specialized branch types.
